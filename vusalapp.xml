@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <version_code number="true">71</version_code>
+  <block_online boolean="true">false</block_online>
+  <hide_download boolean="true">false</hide_download>
+  <require_update boolean="true">false</require_update>
+  <direct>com.vusaldownloadmusic.musicdownloades</direct>
+  <time_show_ads number="true">5000</time_show_ads>
+  <hideRate boolean="true">false</hideRate>
+  <showAds boolean="true">true</showAds>
+  <data_type number="true">1</data_type>
+  <listpub>HALO RE</listpub>
+  <listpub>HALO RE HALO</listpub>
+  <listpub>SHARAD MALHOTRA</listpub>
+  <listpub>HELLY SHAH</listpub>
+  <listpub>PAYAL DEV</listpub>
+  <listpub>MIKA SINGH</listpub>
+  <listpub>ADITYA DEV</listpub>
+  <listpub>APNI DHUN</listpub>
+  <listpub>WARNER</listpub>
+  <listpub>WARNER MUSIC INDIA</listpub>
+  <listpub>WARNER MUSIC</listpub>
+  <listpub>INDIA</listpub>
+  <listpub>NETD MÜZIK</listpub>
+  <listpub>NETD MUZIK</listpub>
+  <listpub>NETD #SHORTS</listpub>
+  <listpub>NETD SHORTS</listpub>
+  <listpub>NETD MUSIC WORLD</listpub>
+  <listpub>NETD T-RAP</listpub>
+  <listpub>NETD TRAP</listpub>
+  <listpub>NETD T RAP</listpub>
+  <listpub>NETD</listpub>
+  <listpub>EDIS</listpub>
+  <listpub>NET D</listpub>
+  <listpub>EH PAAPI</listpub>
+  <listpub>ऐ पप्पी</listpub>
+  <listpub>AYE PAPPI</listpub>
+  <listpub>AYE PAPI</listpub>
+  <listpub>AY PAPPI</listpub>
+  <listpub>AY PAPI</listpub>
+  <listpub>AI PAPPI</listpub>
+  <listpub>AI PAPI</listpub>
+  <listpub>EH PAAPI</listpub>
+  <listpub>ऐ पप्पी</listpub>
+  <listpub>AYE PAPPI</listpub>
+  <listpub>AYE PAPI</listpub>
+  <listpub>AY PAPPI</listpub>
+  <listpub>AY PAPI</listpub>
+  <listpub>AI PAPPI</listpub>
+  <listpub>AI PAPI</listpub>
+  <listpub>MOVE YOUR BODY NOW</listpub>
+  <listpub>NEERAJ SHRIDHAR</listpub>
+  <listpub>KISMAT</listpub>
+  <listpub>AAI PAAPI</listpub>
+  <listpub>SHAHID</listpub>
+  <listpub>AE PAAPI</listpub>
+  <listpub>T-SERIES</listpub>
+  <listpub>ZEE MUSIC COMPANY</listpub>
+  <listpub>SHEMAROO FILMI GAANE</listpub>
+  <listpub>WAVE MUSIC</listpub>
+  <listpub>SONY MUSIC INDIA</listpub>
+  <listpub>YRF</listpub>
+  <listpub>SPEED RECORDS</listpub>
+  <listpub>T-SERIES BHAKTI SAGAR</listpub>
+  <listpub>TIPS OFFICIAL</listpub>
+  <listpub>EROS NOW</listpub>
+  <listpub>T-SERIES APNA PUNJAB</listpub>
+  <listpub>ULTRA BOLLYWOOD</listpub>
+  <listpub>VENUS</listpub>
+  <listpub>GAANE SUNE ANSUNE</listpub>
+  <listpub>GEET MP3</listpub>
+  <listpub>RAJSHRI</listpub>
+  <listpub>BOLLYWOOD CLASSICS</listpub>
+  <listpub>DESI MUSIC FACTORY</listpub>
+  <listpub>SONOTEK</listpub>
+  <listpub>WAVE MUSIC - BHOJPURI</listpub>
+  <listpub>WHITE HILL MUSIC</listpub>
+  <listpub>WORLDWIDE RECORDS BHOJPURI</listpub>
+  <listpub>SAREGAMA MUSIC</listpub>
+  <listpub>ADITYA MUSIC</listpub>
+  <listpub>EMIWAY BANTAI</listpub>
+  <listpub>POP CHARTBUSTERS</listpub>
+  <listpub>TEAM FILMS BHOJPURI</listpub>
+  <listpub>JIGAR MUSIC</listpub>
+  <listpub>LOKDHUN PUNJABI</listpub>
+  <listpub>NEHA KAKKAR</listpub>
+  <listpub>HARYANVI MAINA</listpub>
+  <listpub>JASS RECORDS</listpub>
+  <listpub>LAHARI MUSIC | T-SERIES</listpub>
+  <listpub>SONOTEK HARYANVI</listpub>
+  <listpub>T-SERIES REGIONAL</listpub>
+  <listpub>BOLLYWOOD CLASSICS</listpub>
+  <listpub>T-SERIES HAMAAR BHOJPURI</listpub>
+  <listpub>WAVE MUSIC - BHAKTI</listpub>
+  <listpub>MOR HARYANVI</listpub>
+  <listpub>SONOTEK BHAKTI</listpub>
+  <listpub>BHAKTI DHARA</listpub>
+  <listpub>SANAM</listpub>
+  <listpub>THINK MUSIC INDIA</listpub>
+  <listpub>RDC GUJARATI</listpub>
+  <listpub>SATYAJEET JENA OFFICIAL</listpub>
+  <listpub>VENUS BHOJPURI</listpub>
+  <listpub>RCM BHOJPURI HIT</listpub>
+  <listpub>SONOTEK MUSIC</listpub>
+  <listpub>SONOTEK PUNJABI</listpub>
+  <listpub>TIMES MUSIC</listpub>
+  <listpub>SAGAHITS</listpub>
+  <listpub>CHETAK</listpub>
+  <listpub>RDC RAJASTHANI</listpub>
+  <listpub>TRIMURTI CASSETTES</listpub>
+  <listpub>AADISHAKTI FILMS</listpub>
+  <listpub>VENUS REGIONAL</listpub>
+  <listpub>ANAND AUDIO</listpub>
+  <listpub>AMBEY BHAKTI</listpub>
+  <listpub>SRK MUSIC</listpub>
+  <listpub>MAD 4 MUSIC</listpub>
+  <listpub>SHREE JEE - BHAKTI</listpub>
+  <listpub>STUDIO SARASWATI OFFICIAL</listpub>
+  <listpub>HUMBLE MUSIC</listpub>
+  <listpub>CHANDA</listpub>
+  <listpub>ULTRA CINEMA</listpub>
+  <listpub>DM - DESI MELODIES</listpub>
+  <listpub>SHEMAROO BHAKTI</listpub>
+  <listpub>PEHCHAN MUSIC</listpub>
+  <listpub>SUPERTONE DIGITAL</listpub>
+  <listpub>NDJ MUSIC</listpub>
+  <listpub>HD SONGS BOLLYWOOD</listpub>
+  <listpub>SANJIVANI BHOJPURI</listpub>
+  <listpub>VOICE OF HEART MUSIC</listpub>
+  <listpub>RAGHAV DIGITAL</listpub>
+  <listpub>RAJASTHANI GORBAND MUSIC HD</listpub>
+  <listpub>FRESH MEDIA RECORDS</listpub>
+  <listpub>AWADHESH PREMI OFFICIAL</listpub>
+  <listpub>SPIRITUAL MANTRA</listpub>
+  <listpub>GANGA BHAKTI</listpub>
+  <listpub>WUNDERBAR STUDIOS</listpub>
+  <listpub>MANGO MUSIC</listpub>
+  <listpub>CROWN RECORDS</listpub>
+  <listpub>SAI RECORDDS DIGITAL</listpub>
+  <listpub>T-SERIES TELUGU</listpub>
+  <listpub>ENTERR10 MUSIC BHOJPURI</listpub>
+  <listpub>GULZAAR CHHANIWALA</listpub>
+  <listpub>SHEMAROO KIDS</listpub>
+  <listpub>ANGLE MUSIC OFFICIAL CHANNEL</listpub>
+  <listpub>SINGLE TRACK STUDIO</listpub>
+  <listpub>MELVIN LOUIS</listpub>
+  <listpub>BHAJAN INDIA</listpub>
+  <listpub>ZEE MUSIC MARATHI</listpub>
+  <listpub>SIDHU MOOSE WALA</listpub>
+  <listpub>BIHARIWOOD - बिहारीवुड</listpub>
+  <listpub>RDC RAJASTHANI HD</listpub>
+  <listpub>KHESARI MUSIC WORLD</listpub>
+  <listpub>GAJENDRA VERMA</listpub>
+  <listpub>DINO JAMES</listpub>
+  <listpub>MUZIK247</listpub>
+  <listpub>JUKE DOCK</listpub>
+  <listpub>NDJ FILM OFFICIAL</listpub>
+  <listpub>RAFTAAR</listpub>
+  <listpub>SONOTEK DIGITAL</listpub>
+  <listpub>GURU RANDHAWA</listpub>
+  <listpub>ZEE MUSIC SOUTH</listpub>
+  <listpub>UNKNOWN BOY VARUN</listpub>
+  <listpub>VYRLORIGINALS</listpub>
+  <listpub>SAREGAMA TAMIL</listpub>
+  <listpub>RAJSHRI TAMIL</listpub>
+  <listpub>EKTA SOUND</listpub>
+  <listpub>BEINGINDIAN</listpub>
+  <listpub>SAREGAMA BENGALI</listpub>
+  <listpub>MB MUSIC</listpub>
+  <listpub>MEDITATIVE MIND</listpub>
+  <listpub>RIYA FILMS</listpub>
+  <listpub>TARANG MUSIC</listpub>
+  <listpub>TOHAAR BHOJPURI - तोहार भोजपुरी</listpub>
+  <listpub>JAYAS KUMAR</listpub>
+  <listpub>RAM AUDIO</listpub>
+  <listpub>SONIC ENTERPRISE</listpub>
+  <listpub>SAREGAMA GENY</listpub>
+  <listpub>BAMB BEATS</listpub>
+  <listpub>INDIE MUSIC LABEL</listpub>
+  <listpub>VEHLIJANTARECORDS</listpub>
+  <listpub>SONIC ISLAMIC (سونک اسلامک)</listpub>
+  <listpub>KANHAIYACASSETTE</listpub>
+  <listpub>RAJASTHANI GORBAND MUSIC</listpub>
+  <listpub>YO YO HONEY SINGH</listpub>
+  <listpub>WINGS MARATHI</listpub>
+  <listpub>STUDIO SANGEETA</listpub>
+  <listpub>RDC BANGLAR GEETI</listpub>
+  <listpub>DIL MUSIC</listpub>
+  <listpub>MESHWA FILMS</listpub>
+  <listpub>SHEMAROO MUSICAL MAESTROS</listpub>
+  <listpub>KNOX ARTISTE</listpub>
+  <listpub>CHEETA SUPERFINE MUSIC</listpub>
+  <listpub>DANISH &amp; DAWAR</listpub>
+  <listpub>AIDC</listpub>
+  <listpub>LYCA PRODUCTIONS</listpub>
+  <listpub>RAJ BARMAN</listpub>
+  <listpub>T-SERIES ISLAMIC MUSIC</listpub>
+  <listpub>PRG MUSIC AND FILM STUDIO</listpub>
+  <listpub>THE UNFORGETTABLE ENTERTAINMENT</listpub>
+  <listpub>AKSH BAGHLA</listpub>
+  <listpub>DARSHANRAVALDZ</listpub>
+  <listpub>HSR ENTERTAINMENT</listpub>
+  <listpub>PRIYA VIDEO</listpub>
+  <listpub>SURANA FILM STUDIO</listpub>
+  <listpub>VEENA MUSIC</listpub>
+  <listpub>BHAJAN KIRTAN</listpub>
+  <listpub>MALWA RECORDS</listpub>
+  <listpub>YUKI MUSIC</listpub>
+  <listpub>GRAND STUDIO</listpub>
+  <listpub>TARANG MUSIC</listpub>
+  <listpub>RIDDHI MUSIC WORLD</listpub>
+  <listpub>YFILMS</listpub>
+  <listpub>SOORMANDIR</listpub>
+  <listpub>DIVINE</listpub>
+  <listpub>FINE DIGITAL HARYANVI</listpub>
+  <listpub>BHAKTI BHAJAN KIRTAN</listpub>
+  <listpub>RCM BHAKTI SAGAR</listpub>
+  <listpub>JIGAR STUDIO</listpub>
+  <listpub>JHANKAR MUSIC</listpub>
+  <listpub>TEAM FILM</listpub>
+  <listpub>SAI AASHIRWAD</listpub>
+  <listpub>A. R. RAHMAN</listpub>
+  <listpub>KARAMBIR FOUJI LIVE</listpub>
+  <listpub>BANGLAR RS MUSIC</listpub>
+  <listpub>NAV HARYANVI</listpub>
+  <listpub>BILLIONSURPRISETOYS - TAMIL</listpub>
+  <listpub>PANJ-AAB RECORDS</listpub>
+  <listpub>JAMMA DESI</listpub>
+  <listpub>BHAKTI MALA</listpub>
+  <listpub>TADKA PUNJABI</listpub>
+  <listpub>ALKA MUSIC</listpub>
+  <listpub>BHAKTI DHAAM</listpub>
+  <listpub>DEVOTEES INSANOS RECORDS</listpub>
+  <listpub>BOLLYWOOD ROMANTIC JUKEBOX</listpub>
+  <listpub>AWANTIKA MUSIC</listpub>
+  <listpub>RITU AGARWAL</listpub>
+  <listpub>SURINDER FILMS</listpub>
+  <listpub>SHREE CASSETTE ISLAMIC</listpub>
+  <listpub>BANG MUSIC</listpub>
+  <listpub>PRAMOD PREMI ENTERTAINMENT</listpub>
+  <listpub>RHYTHM BOYZ</listpub>
+  <listpub>HIPHOP TAMIZHA</listpub>
+  <listpub>DISCO RECORDING COMPANY - TELANGANA FOLKS</listpub>
+  <listpub>J STAR PRODUCTIONS</listpub>
+  <listpub>SHABAD GURBANI</listpub>
+  <listpub>LALITHA AUDIOS AND VIDEOS</listpub>
+  <listpub>I AM DESI WORLD</listpub>
+  <listpub>SIDDHARTH SLATHIA</listpub>
+  <listpub>UNITED WHITE FLAG</listpub>
+  <listpub>SONU KAKKAR</listpub>
+  <listpub>MK STUDIO</listpub>
+  <listpub>AGR LIFE</listpub>
+  <listpub>ARMAAN MALIK</listpub>
+  <listpub>ROYAL MUSIC FACTORY</listpub>
+  <listpub>BRIJWANI CASSETTES</listpub>
+  <listpub>WAVE DHAMAKA</listpub>
+  <listpub>SHIVANI KA THUMKA</listpub>
+  <listpub>SUNIX THAKOR</listpub>
+  <listpub>SPEED PUNJABI</listpub>
+  <listpub>8D SONGS BOLLYWOOD</listpub>
+  <listpub>AARYAA DIGITAL</listpub>
+  <listpub>AISH</listpub>
+  <listpub>SAAWARIYA</listpub>
+  <listpub>VENUS DEVOTIONAL</listpub>
+  <listpub>PK DJ STUDIO</listpub>
+  <listpub>HARYANVI HITS</listpub>
+  <listpub>HARI OM BHAKTI</listpub>
+  <listpub>JAI SHRI RAM BHAKTI</listpub>
+  <listpub>MANKIRT AULAKH</listpub>
+  <listpub>BABBU MAAN</listpub>
+  <listpub>LOVELY VIDEO</listpub>
+  <listpub>MAITHILI THAKUR</listpub>
+  <listpub>SPEED RECORDS BHOJPURI</listpub>
+  <listpub>VIBE MUSIC</listpub>
+  <listpub>P&amp;M SAPNA OFFICIAL</listpub>
+  <listpub>LATEST PUNJABI SONGS</listpub>
+  <listpub>RUHAAN ARSHAD OFFICIAL</listpub>
+  <listpub>ONE MUSIC ORIGINALS</listpub>
+  <listpub>EVEREST MARATHI</listpub>
+  <listpub>RDC GUJARATI HD</listpub>
+  <listpub>DESI UNPLUGGED</listpub>
+  <listpub>LOVEINDIA</listpub>
+  <listpub>YUMNA AJIN OFFICIAL</listpub>
+  <listpub>RAJEEV RAJA</listpub>
+  <listpub>STRUMM SOUND</listpub>
+  <listpub>HINDI UNPLUGGED WORLD</listpub>
+  <listpub>HANSRAJ RAGHUWANSHI</listpub>
+  <listpub>BIHARI FILMS BHOJPURI</listpub>
+  <listpub>VIDEO PALACE</listpub>
+  <listpub>SAGA MUSIC</listpub>
+  <listpub>MG RECORDS HARYANVI HITS</listpub>
+  <listpub>KALA NIKETAN</listpub>
+  <listpub>JHANKAR GAANE</listpub>
+  <listpub>RAJSHRI SOUL</listpub>
+  <listpub>GURJAR RASIYA OFFICIAL</listpub>
+  <listpub>BENGALI SONGS - ANGEL DIGITAL</listpub>
+  <listpub>TIMES MUSIC SOUTH</listpub>
+  <listpub>EMM PEE</listpub>
+  <listpub>SONIC QAWWALI</listpub>
+  <listpub>SAI RECORDDS - BHOJPURI</listpub>
+  <listpub>KULDEEP M PAI</listpub>
+  <listpub>AWADHESH PREMI PERSONAL</listpub>
+  <listpub>HEMANTKUMAR MAHALE</listpub>
+  <listpub>SATYAMVIDEOS</listpub>
+  <listpub>T-SERIES TAMIL</listpub>
+  <listpub>DHVANI BHANUSHALI</listpub>
+</root>
